@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Flag Pack">
+<g clip-path="url(#clip0_1_85)">
+<path id="Vector" d="M29.9999 7.5H-6V0.592128C-6 0.265143 -5.72206 0 -5.37928 0H29.3793C29.7221 0 30 0.265143 30 0.592128L29.9999 7.5Z" fill="#F5F5F5"/>
+<path id="Vector_2" d="M29.3793 24H-5.37928C-5.72205 24 -6 23.7349 -6 23.4079V16.5H30V23.4079C30 23.7349 29.7221 24 29.3793 24Z" fill="#DA291C"/>
+<path id="Vector_3" d="M30 7.5H-6V16.5H30V7.5Z" fill="#0033A0"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_85">
+<rect x="-6" width="36" height="24" rx="3" fill="white"/>
+</clipPath>
+</defs>
+</svg>

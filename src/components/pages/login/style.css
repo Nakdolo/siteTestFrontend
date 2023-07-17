@@ -1,0 +1,94 @@
+.box {
+  width: 400px;
+  margin: 100px auto;
+}
+
+.field {
+  margin-bottom: 20px;
+}
+
+.input-field {
+  border: none;
+  outline: none;
+  width: 340px;
+  height: 25px;
+  border-bottom: 2px solid #ffffff;
+  padding-bottom: 5px;
+}
+
+.input-field:hover {
+  border-bottom-color: #4b7bf5;
+}
+
+.hidden-checkbox {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.checkmark {
+  margin-left: 9px;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 18px;
+  height: 18px;
+  background-color: #4b7bf5;
+  border-radius: 4px;
+}
+
+
+
+.checkbox-container {
+  display: flex;
+  margin-bottom: 8px;
+}
+
+.checkbox-labels {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.label-text {
+  font-size: 14px;
+  color: #000;
+  margin-right: 100px;
+}
+
+.checkbox-labels a {
+  color: rgba(75, 123, 245, 1);
+  text-decoration: none;
+}
+
+.checkbox-labels a:hover {
+  text-decoration: underline;
+}
+
+.login-button {
+  margin-top: 10px;
+  width: 345px;
+  height: 44px;
+  background-color: #4b7bf5;
+  color: #fff;
+  border-radius: 10px;
+  padding: 11px 20px;
+  border: none;
+  cursor: pointer;
+}
+.register-text {
+  text-align: center;
+  font-size: 14px;
+  color: #000;
+  margin-right: 44px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  max-height: 7%;
+}
+
+

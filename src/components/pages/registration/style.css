@@ -1,0 +1,47 @@
+.box {
+  width: 400px;
+  margin: 100px auto;
+}
+
+.field {
+  margin-bottom: 20px;
+}
+
+.input-field {
+  border: none;
+  outline: none;
+  width: 340px;
+  height: 25px;
+  border-bottom: 2px solid #ffffff;
+  padding-bottom: 5px;
+}
+
+.input-field:hover {
+  border-bottom-color: #4b7bf5;
+}
+
+.login-button {
+  margin-top: 10px;
+  width: 345px;
+  height: 44px;
+  background-color: #4b7bf5;
+  color: #fff;
+  border-radius: 10px;
+  padding: 11px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  max-height: 7%;
+}
+
+.register-text {
+  text-align: top;
+  font-size: 14px;
+  color: #000;
+  margin-right: 44px;
+}
